@@ -1,0 +1,28 @@
+img{
+    height: 100px;
+    width: 100px;
+}
+.navbar-nav li:hover{
+    border-bottom: 1px solid rgb(38, 202, 207);
+}
+
+.d-block{
+    height: 80vh;
+}
+
+.base{
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.base img{
+    width: 80%;
+    height: 80%;
+}
